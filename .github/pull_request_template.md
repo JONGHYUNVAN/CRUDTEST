@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 - []  pr 요청을 보내는 branch 를 확인하였습니다
+=======
+v2.1
+- [ ]  pr 요청을 보내는 branch 를 확인하였습니다
+>>>>>>> Stashed changes
 
 ### 작업 카테고리
 
